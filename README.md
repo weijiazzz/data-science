@@ -12,3 +12,4 @@ Please connect me on [LinkedIn](https://www.linkedin.com/in/weijia-zhang-0417/) 
 ## Projects
 
 - [Predicting Stock Price for Apple Company](https://github.com/weijiazzz/data-science/blob/master/stock_price/stock_price_prediction.ipynb): Using Long-short term memory (LSTM) to predict future stock prices for Apple company using it's historical data
+![image](https://github.com/weijiazzz/data-science/blob/master/stock_price/prediction_vs_real.png?raw=true)
