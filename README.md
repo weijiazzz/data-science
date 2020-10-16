@@ -16,8 +16,7 @@ Please connect me on [LinkedIn](https://www.linkedin.com/in/weijia-zhang-0417/) 
 
 ---
 
--[Reconstructing Digits Using a Variational Autoencoder](https://github.com/weijiazzz/data-science/blob/master/digits_reconstruction/digits_reconstuction.ipynb): Using variational
-autoencoder to draw characteristics from MNIST dataset and reconstruct digits
+- [Reconstructing Digits Using a Variational Autoencoder](https://github.com/weijiazzz/data-science/blob/master/digits_reconstruction/digits_reconstuction.ipynb): Using variational autoencoder to draw characteristics from MNIST dataset and reconstruct digits
 <img src="digits_reconstruction/decoded_images.png" width="400"> | <img src="digits_reconstruction/digits_in_latent_space.png" width="400">
 
 ---
