@@ -11,7 +11,7 @@ Please connect me on [LinkedIn](https://www.linkedin.com/in/weijia-zhang-0417/) 
 
 ## Projects
 
-- [Collaborative Filtering using a Trust Social Network with Deep Learning for Initialization](https://github.com/weijiazzz/data-science/blob/project/cf/collaborative_filtering/cf_with_trust.pdf): Developed a Recommender System algorithm that utilizes a trust social network. Community detection was leveraged on the social network to detect groups with the same interest. Deep learning was used to search for a better initialization in the non-convex optimization problem. Eperimental results on the [Epinion](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm) dataset were demonstarated.
+- [Collaborative Filtering using a Trust Social Network with Deep Learning for Initialization](https://github.com/weijiazzz/data-science/blob/project/cf/collaborative_filtering/cf_with_trust.pdf): Developed a Recommender System algorithm that utilizes a trust social network. Community detection was leveraged on the social network to detect groups with the same interest. Deep learning was used to search for a better initialization in the non-convex optimization problem. Experimental results on the [Epinion](https://www.cse.msu.edu/~tangjili/datasetcode/truststudy.htm) dataset were demonstrated.
 
 ---
 
